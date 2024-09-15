@@ -1,0 +1,48 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* 包括边框和内边距 */
+}
+ 
+ul, ol, li {
+  list-style: none; /* 移除列表的默认项目符号 */
+}
+ 
+img {
+  max-width: 100%; /* 确保图片不会超出其容器 */
+  height: auto; /* 保持图片的宽高比 */
+}
+ 
+a {
+  text-decoration: none; /* 移除链接的下划线 */
+  color: inherit; /* 继承父元素的文本颜色 */
+}
+ 
+/* 其他需要重置的样式 */
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
