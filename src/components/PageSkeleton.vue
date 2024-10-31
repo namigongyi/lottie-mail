@@ -11,7 +11,7 @@ const props = defineProps(["rotate", "index"]);
     }"
   >
     <ul>
-      <li v-for="i in 13"></li>
+      <li v-for=" in 13"></li>
     </ul>
   </div>
 </template>

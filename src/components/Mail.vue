@@ -242,7 +242,7 @@ const flipHandle = ({ data }) => {
 }
 
 .container {
-  background-image: url(/background.svg);
+  background-image: url(/picture/background.svg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -256,7 +256,7 @@ const flipHandle = ({ data }) => {
 .container .sound {
   width: 50px;
   height: 50px;
-  background-image: url(/sound.svg);
+  background-image: url(/picture/sound.svg);
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
@@ -266,7 +266,7 @@ const flipHandle = ({ data }) => {
 .container .sound-closed {
   width: 50px;
   height: 50px;
-  background-image: url(/sound-closed.svg);
+  background-image: url(/picture/sound-closed.svg);
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
@@ -290,7 +290,7 @@ const flipHandle = ({ data }) => {
 
 .container .background {
   position: absolute;
-  background-image: url(/mail-bg@2x.svg);
+  background-image: url(/picture/mail-bg@2x.svg);
   background-repeat: no-repeat;
   background-size: contain;
   width: 100%;
@@ -299,7 +299,7 @@ const flipHandle = ({ data }) => {
 
 .container .cover {
   position: absolute;
-  background-image: url(/mail-cover@2x.svg);
+  background-image: url(/picture/mail-cover@2x.svg);
   background-repeat: no-repeat;
   background-size: contain;
   width: 100%;
@@ -325,7 +325,7 @@ const flipHandle = ({ data }) => {
 
 .container .envelope {
   position: absolute;
-  background-image: url(/mail-envelope@2x.svg);
+  background-image: url(/picture/mail-envelope@2x.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
