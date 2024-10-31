@@ -473,7 +473,7 @@ lottie-web-vue@^2.0.7:
 
 lottie-web@5.12.2, lottie-web@^5.12.2:
   version "5.12.2"
-  resolved "https://registry.npmjs.org/lottie-web/-/lottie-web-5.12.2.tgz#579ca9fe6d3fd9e352571edd3c0be162492f68e5"
+  resolved "https://registry.yarnpkg.com/lottie-web/-/lottie-web-5.12.2.tgz#579ca9fe6d3fd9e352571edd3c0be162492f68e5"
   integrity sha512-uvhvYPC8kGPjXT3MyKMrL3JitEAmDMp30lVkuq/590Mw9ok6pWcFCwXJveo0t5uqYw1UREQHofD+jVpdjBv8wg==
 
 magic-string@^0.30.11:
@@ -611,7 +611,7 @@ vue-tsc@^2.0.29:
 
 vue3-lottie@^3.3.1:
   version "3.3.1"
-  resolved "https://registry.npmjs.org/vue3-lottie/-/vue3-lottie-3.3.1.tgz#df8ab61f5a8f7e03442fe5153fa766d879691037"
+  resolved "https://registry.yarnpkg.com/vue3-lottie/-/vue3-lottie-3.3.1.tgz#df8ab61f5a8f7e03442fe5153fa766d879691037"
   integrity sha512-60uQmx4eefi3FdPjAxWnblrgJJjnVTXUA6e4BAI3jGzgOSR76pyzL1rrWDiyPmMFo4mTw4wGTW6Gbkg3HR1mYw==
   dependencies:
     fast-deep-equal "^3.1.3"
